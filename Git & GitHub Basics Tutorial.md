@@ -1,3 +1,5 @@
+# Git & GitHub Basics Tutorial
+
 This guide covers the most essential Git commands you’ll need to start working with Git and GitHub:  
 - **Clone**: Copy a repository from GitHub to your local machine.  
 - **Commit**: Save changes in your local repository.  
