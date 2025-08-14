@@ -1,4 +1,4 @@
-
+# Shell Scripting — Complete Essentials
 
 A **shell script** is a plain text file containing commands that the shell (e.g., **Bash**, **Sh**, **Zsh**) can execute in sequence.  
 It’s used to automate repetitive tasks, configure systems, run backups, and more.
